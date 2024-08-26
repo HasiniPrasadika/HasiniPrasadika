@@ -3,7 +3,9 @@
   # 👋 Hello, I’m Hasini Prasadika Madhushani
 
   ## 💻 About Me
-  I’m a passionate Web and Mobile Developer currently pursuing a degree in Computer Engineering at the Faculty of Engineering, University of Ruhuna. I love working on innovative projects and am always eager to collaborate on interesting ventures.
+  I’m an sspiring Computer Engineering undergraduate at the University of Ruhuna, Sri Lanka, with a passion for web and mobile app development using MERN and Flutter. I also enjoy UI/UX design with Figma, blending technical and creative skills. Eager to gain hands-on experience, contribute to innovative projects, and collaborate with industry experts.
+
+
 
   ## 🚀 Current Focus
   I’m currently focused on expanding my knowledge and skills in Web and Mobile Development. My current projects involve Flutter and MERN stack applications, and I am always exploring new technologies and methodologies.
@@ -42,6 +44,14 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniPrasadika&layout=compact&hide_border=true&theme=slateorange" alt="Hasini Prasadika's Top Languages" />
   </a>
 </div>
+
+## 📊 Contributions
+
+[![GitHub Contributions](https://github.com/HasiniPrasadika.png)](https://github.com/HasiniPrasadika)
+
+
+
+
 
 
 </div>
