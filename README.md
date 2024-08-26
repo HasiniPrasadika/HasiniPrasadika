@@ -10,8 +10,8 @@ I’m currently focused on expanding my knowledge and skills in Web and Mobile D
 I’m looking to collaborate on exciting and challenging projects. If you have a project idea or need help with a development task, feel free to reach out!
 
 ## 📫 How to Reach Me
-- **Email:** [your-email@example.com](mailto:gkhpmadhushani17@gmail.com)
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/hasini-madhushani/)
+- **Email:** [gkhpmadhushani17@gmail.com](mailto:gkhpmadhushani17@gmail.com)
+- **LinkedIn:** [hasini madhushani](https://www.linkedin.com/in/hasini-madhushani/)
 
 ## 😄 Pronouns
 She/Her
