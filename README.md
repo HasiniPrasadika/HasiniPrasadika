@@ -1,8 +1,8 @@
 <div align="center">
 
-<!--
-  <img src="https://res.cloudinary.com/dzofgskjr/image/upload/v1724691214/eetkagkmdjswxinhgywm.png" alt="Profile Image" style=" width: 150px; height: 150px;" />
-  -->
+
+  <img src="https://res.cloudinary.com/dzofgskjr/image/upload/v1724732305/grwieeabbco8f5ijsfcz.png" alt="Profile Image" style=" width: 200px;" />
+
 
 
   # 👋 Hello, I’m Hasini Prasadika Madhushani
