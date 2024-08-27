@@ -19,7 +19,7 @@
   I’m looking to collaborate on exciting and challenging projects. If you have a project idea or need help with a development task, feel free to reach out!
 
   ## 📬 How to Reach Me
-   **Email:** [gkhpmadhushani17@gmail.com](mailto:gkhpmadhushani17@gmail.com)
+   **Email:** [gkhpmadhushani17@gmail.com](mailto:gkhpmadhushani17@gmail.com)<br/>
    **LinkedIn:** [hasini madhushani](https://www.linkedin.com/in/hasini-madhushani/)
 
 ## 🌐 Portfolio
