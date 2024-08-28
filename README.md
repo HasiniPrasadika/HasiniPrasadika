@@ -8,7 +8,7 @@
   # 👋 Hello, I’m Hasini Prasadika Madhushani
 
   ## 💻 About Me
-  I’m an sspiring Computer Engineering undergraduate at the University of Ruhuna, Sri Lanka, with a passion for web and mobile app development using MERN and Flutter. I also enjoy UI/UX design with Figma, blending technical and creative skills. Eager to gain hands-on experience, contribute to innovative projects, and collaborate with industry experts.
+  I’m an aspiring Computer Engineering undergraduate at the University of Ruhuna, Sri Lanka, with a passion for web and mobile app development using MERN and Flutter. I also enjoy UI/UX design with Figma, blending technical and creative skills. Eager to gain hands-on experience, contribute to innovative projects, and collaborate with industry experts.
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasiniprasadika&label=Profile%20views&color=0e75b6&style=flat" alt="hasiniprasadika" /> </p>
