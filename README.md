@@ -11,6 +11,7 @@
   I’m an sspiring Computer Engineering undergraduate at the University of Ruhuna, Sri Lanka, with a passion for web and mobile app development using MERN and Flutter. I also enjoy UI/UX design with Figma, blending technical and creative skills. Eager to gain hands-on experience, contribute to innovative projects, and collaborate with industry experts.
 
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hasiniprasadika&label=Profile%20views&color=0e75b6&style=flat" alt="hasiniprasadika" /> </p>
 
   ## 🚀 Current Focus
   I’m currently focused on expanding my knowledge and skills in Web and Mobile Development. My current projects involve Flutter and MERN stack applications, and I am always exploring new technologies and methodologies.
@@ -28,21 +29,57 @@
 
 ## 🛠️ Skills & Technologies
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Java-E64A19?style=flat&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/-Node.js-8CC84B?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Firebase-F68D2E?style=flat&logo=firebase&logoColor=white" alt="Firebase" />
+
+<p align="center"> 
+  <a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+ </a>
+  <a > 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  </a> 
+  <a> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  </a> 
+   <a > 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a> 
+   <a > 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  </a> 
+  <a > 
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
+  </a> 
+  <a > 
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+  </a> 
+  <a > 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+   <a > 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
+  </a> 
+  <a > 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a > 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  </a> 
+  <a > 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a>
+  <a > 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+ 
+  <a > 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a> 
 </p>
-
-
-
+ 
+  
 
 ## 📊 GitHub Stats & Activity
 
@@ -63,6 +100,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasiniPrasadika&layout=compact&hide_border=true&theme=slateorange" alt="Hasini Prasadika's Top Languages" />
   </a>
 </div>
+
+
 
 
 
