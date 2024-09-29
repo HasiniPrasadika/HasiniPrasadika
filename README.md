@@ -25,7 +25,7 @@
 
 ## 🌐 Portfolio
 
-  Check out my portfolio to see my latest projects and achievements: [My Portfolio](https://hasiniprasadika.github.io/Hasini-Portfolio/)
+  Check out my portfolio to see my latest projects and achievements: [My Portfolio](https://hasinimadhushani.great-site.net/)
 
 ## 🛠️ Skills & Technologies
 
