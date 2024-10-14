@@ -13,6 +13,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hasiniprasadika&label=Profile%20views&color=0e75b6&style=flat" alt="hasiniprasadika" /> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HasiniPrasadika)](https://github.com/ryo-ma/github-profile-trophy)
+
+
   ## 🚀 Current Focus
   I’m currently focused on expanding my knowledge and skills in Web and Mobile Development. My current projects involve Flutter and MERN stack applications, and I am always exploring new technologies and methodologies.
 
@@ -82,6 +85,7 @@
   
 
 ## 📊 GitHub Stats & Activity
+
 
 <div align="center">
   <a href="https://github.com/HasiniPrasadika">
